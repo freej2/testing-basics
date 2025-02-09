@@ -1,11 +1,12 @@
 {
-  "devDependencies": {
-    "@babel/core": "^7.26.8",
-    "@babel/preset-env": "^7.26.8",
-    "babel-jest": "^29.7.0",
-    "jest": "^29.7.0"
-  },
+  "name": "string-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functions.js",
   "scripts": {
     "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
